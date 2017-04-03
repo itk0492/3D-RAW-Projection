@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/3DTransformations.c
+math.h
+-
+3DTransformations.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/3DTransformations.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/3DTransformations.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/draw.c
+stdlib.h
+-
+draw.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/draw.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/draw.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/main.c
+stdio.h
+-
+stdlib.h
+-
+raster.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/raster.h
+draw.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/draw.h
+readRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.h
+3DTransformations.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/3DTransformations.h
+perspProjectionRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/perspProjectionRAW.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/perspProjectionRAW.c
+perspProjectionRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/perspProjectionRAW.h
+readRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/perspProjectionRAW.h
+readRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/raster.c
+stdlib.h
+-
+stdio.h
+-
+raster.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/raster.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/raster.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.c
+readRAW.h
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.h
+
+C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/readRAW.h
+
