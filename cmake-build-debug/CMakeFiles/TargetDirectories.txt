@@ -1,3 +1,0 @@
-C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/cmake-build-debug/CMakeFiles/projection.dir
-C:/Users/iroas/Documents/6to Semestre/Computer Graphics/Practicas/projection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
